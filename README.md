@@ -1,2 +1,2 @@
 # UsingAuthorizationWithSwagger
-Using Authorization With Swagger in .net core webapi 6.0
+Using Authorization With Swagger in .net core WebApi 6.0
